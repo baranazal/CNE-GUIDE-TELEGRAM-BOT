@@ -14,6 +14,9 @@ Designed to be as a volunteering project for BAU - FET bachelor students especia
 # Supported Devices
 Telegram supported devices : https://telegram.org/faq#q-which-devices-can-i-use
 
+# Link to the bot
+You can access the bot by clicking the logo image on the top or you can go here : https://t.me/CNE_GUIDE_BOT
+
 # Screenshots 
 
 <p align="center">
