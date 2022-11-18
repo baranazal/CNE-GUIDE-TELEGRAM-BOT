@@ -1,5 +1,7 @@
 # About 
 
+![photo_2022-11-18_14-38-57](https://user-images.githubusercontent.com/72268356/202699348-2c20b2bb-d53d-4d5e-a67f-9e48fb13776c.jpg)
+
 
 
 
