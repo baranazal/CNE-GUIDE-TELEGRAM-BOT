@@ -16,3 +16,7 @@ Telegram supported devices : https://telegram.org/faq#q-which-devices-can-i-use
 
 # Screenshots 
 
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/72268356/202701362-c0889cc6-3180-4157-a63f-ebeb156fee67.jpg" alt="logo"></a>
+   </p>
+
